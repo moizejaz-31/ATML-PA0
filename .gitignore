@@ -1,0 +1,46 @@
+# Data and large files
+data/
+**/data/
+*.pth
+*.pt
+*.bin
+*.onnx
+checkpoints/
+**/checkpoints/
+
+# Scratch & Temporary Analysis Files
+scratch/
+**/scratch/
+*.log
+results/logs/
+**/results/logs/
+
+# Python cache, virtualenv & build artifacts
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+atml_assignment0.egg-info/
+build/
+dist/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Report & assignment pdf
+report/
+**/report/
+PA 0.pdf
+*.pdf
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
