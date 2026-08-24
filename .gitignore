@@ -8,12 +8,13 @@ data/
 checkpoints/
 **/checkpoints/
 
+# Results (figures, logs, saved outputs)
+results/
+**/results/
+
 # Scratch & Temporary Analysis Files
 scratch/
 **/scratch/
-*.log
-results/logs/
-**/results/logs/
 
 # Python cache, virtualenv & build artifacts
 __pycache__/
@@ -40,7 +41,14 @@ report/
 PA 0.pdf
 *.pdf
 
+# Zip archives & template files
+*.zip
+neurips2026_template/
+
 # OS metadata
 .DS_Store
 Thumbs.db
 
+# IDE
+.vscode/
+.idea/
