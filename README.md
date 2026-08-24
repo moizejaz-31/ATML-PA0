@@ -1,7 +1,7 @@
 # ATML Assignment 0 — Representation Learning & Model Internals
 
 **Course:** EE-5102 / CS-6304 · Advanced Topics in Machine Learning  
-**Institution:** Information Technology University (ITU), Lahore
+**Institution:** Lahore University of Management Sciences (LUMS)
 
 ---
 
@@ -25,7 +25,6 @@ atml-assignment0/
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
 ├── setup.py                           # Package installer (pip install -e .)
-├── .gitignore
 ├── LICENSE
 │
 ├── task1_resnet152/
